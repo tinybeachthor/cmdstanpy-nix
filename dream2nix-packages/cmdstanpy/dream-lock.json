@@ -1,0 +1,68 @@
+{
+  "_generic": {
+    "defaultPackage": "cmdstanpy",
+    "invalidationHash": "c14cfde1c1c9cd01454b1979b9e8c870f81964cbe57d603ddb4f594cded5e582",
+    "location": "",
+    "packages": {
+      "cmdstanpy": "1.1.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "python"
+  },
+  "_subsystem": {
+    "application": false,
+    "pythonAttr": "python310",
+    "sourceFormats": {
+      "numpy": "wheel",
+      "pandas": "wheel",
+      "python_dateutil": "wheel",
+      "pytz": "wheel",
+      "six": "wheel",
+      "tqdm": "wheel"
+    }
+  },
+  "sources": {
+    "numpy": {
+      "1.24.2": {
+        "hash": "sha256-pRclqBWmGIxmL7ZvsyB3cJqco4BT8CdGQCk6FP3SKXg=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/n/numpy/numpy-1.24.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "pandas": {
+      "1.5.3": {
+        "hash": "sha256-egpWzvFf0VhnJtrOVhbbdevP7JF5o6VeePcsVjn6KiM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/cp310/p/pandas/pandas-1.5.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
+      }
+    },
+    "python_dateutil": {
+      "2.8.2": {
+        "hash": "sha256-lh0D3DRT67xZ296p5OEcVlFSCodtD02xYehnSq6TXak=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/p/python_dateutil/python_dateutil-2.8.2-py2.py3-none-any.whl"
+      }
+    },
+    "pytz": {
+      "2022.7.1": {
+        "hash": "sha256-ePTzfYGY4GJ8XxFDJAuwIGuGkdjXrG14/uiLeHM/jEo=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/p/pytz/pytz-2022.7.1-py2.py3-none-any.whl"
+      }
+    },
+    "six": {
+      "1.16.0": {
+        "hash": "sha256-irsvHYaJCi37mJ+ad8/P0+R8KjVLAREXcTJviqJuAlQ=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/s/six/six-1.16.0-py2.py3-none-any.whl"
+      }
+    },
+    "tqdm": {
+      "4.65.0": {
+        "hash": "sha256-xPU6F/434TKBWrzuwCJjG+j/4bk4HC5uMKpw7cmelnE=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py3/t/tqdm/tqdm-4.65.0-py3-none-any.whl"
+      }
+    }
+  }
+}
